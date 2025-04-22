@@ -48,6 +48,11 @@ Predict the type of customer support case using attributes like message length a
 - The Logistic Regression model performed well on the test dataset.
 - The confusion matrix revealed class-level performance.
 - The model shows promise for automating support ticket categorization.
+![image](https://github.com/user-attachments/assets/2f86bfdf-27d3-4f20-9f7b-e2c3d1b25c2b)
+![image](https://github.com/user-attachments/assets/6d7e6bcc-3004-4941-b7b2-4285b2ba2e72)
+![image](https://github.com/user-attachments/assets/7f7582dd-13c9-4aa3-b50f-a270892624bc)
+
+
 
 ## 🧪 How to Run
 
